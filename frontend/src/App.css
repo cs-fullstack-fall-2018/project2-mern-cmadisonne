@@ -1,0 +1,64 @@
+.App {
+  font-family: Chilanka;
+  background-color: pink;
+  text-align: center;
+}
+
+.topImage {
+  opacity: 0.9;
+}
+
+.entryField {
+  border-radius: 25px;
+  background-color: powderblue;
+  text-align: center;
+  height: 200px;
+  width: 700px;
+}
+
+.submitButton {
+  background-color: deeppink;
+  border-radius: 25px;
+}
+
+.titleField {
+  border-radius: 25px;
+  background-color: powderblue;
+  text-align: center;
+  width: 700px;
+}
+
+.usernameField {
+  border-radius: 25px;
+  background-color: powderblue;
+  text-align: center;
+  width: 700px;
+}
+
+.head {
+  font-family: Chilanka;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  height: 150px;
+  padding: 20px;
+  color: black;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
